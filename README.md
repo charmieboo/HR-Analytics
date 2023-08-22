@@ -11,7 +11,8 @@ SQL helps us store and manipulate the data we are working with, and then Tableau
 
 
 ## Datasets used
-* [Absenteeism at work Data](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
+There are 3 .csv files (Absenteeism_at_work.csv, Reasons.csv, compensation.csv) that I have joined together into one table, in MySQL Workbench that can be accessed here: [absenteeism_data_processing](https://github.com/charmieboo/HR-Analytics/blob/main/absenteeism_data_processing.sql)
+
 
 Attribute Information:
 
